@@ -54,14 +54,9 @@ def banner():
        AUTHOR : Dhul-Qarnayn
        GITHUB : https://github.com/MMAB-313
     ███████████████████████████████████████████
-       WHATSAPP : 01844756619
+     WHATSAPP : +8801844756619
     ███████████████████████████████████████████
-   FUNCTION : Hack Facebook Target
-    ███████████████████████████████████████████
-   >> DON'T RECODE, YOU IDIOT
-   I WORKED HARD MAKING THIS, IDIOT
-    ███████████████████████████████████████████
-    ''')
+        USAGE : Facebook Target Bruteforce
     time.sleep(1.5)
 
 
