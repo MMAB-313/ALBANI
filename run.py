@@ -57,7 +57,8 @@ def banner():
      WHATSAPP : +8801844756619
     ███████████████████████████████████████████
         USAGE : Facebook Target Bruteforce
-    """)time.sleep(1.5)
+    """)
+    time.sleep(1.5)
 
 
 # Brute force function
