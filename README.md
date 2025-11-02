@@ -1,5 +1,5 @@
 # ALBANI
-HACK FACEBOOK VIA BRUTEFORCE USING TERMUX OR ETC.......
+HACK FACEBOOK VIA BRUTEFORCE USING TERMUX OR ETC!
 # Install Process
 ### $ pkg update && pkg upgrade
 ## $ pkg install git
